@@ -3,4 +3,4 @@ Hover Effect In Button
 
 
 Tried to match the figma design.
-The responsive width is 576px
+The mobile responsive width is 575px and less
